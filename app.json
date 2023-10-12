@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "97c3725b-b3b4-4679-99c6-581288fb4828"
+      }
+    },
+    "owner": "pemtshewang"
   }
 }
